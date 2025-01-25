@@ -1,0 +1,18 @@
+[
+  {
+    "region": "a",
+    "distribution": 0.3
+  },
+  {
+    "region": "b",
+    "distribution": 0.1
+  },
+  {
+    "region": "c",
+    "distribution": 0.4
+  },
+  {
+    "region": "d",
+    "distribution": 0.2
+  }
+]

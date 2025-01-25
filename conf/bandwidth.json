@@ -1,0 +1,18 @@
+[
+  {
+    "uploadBandwidth": 19,
+    "distribution": 0.1
+  },
+  {
+    "uploadBandwidth": 18,
+    "distribution": 0.6
+  },
+  {
+    "uploadBandwidth": 17,
+    "distribution": 0.2
+  },
+  {
+    "uploadBandwidth": 16,
+    "distribution": 0.1
+  }
+]

@@ -1,0 +1,6 @@
+output_*.json
+output_*.txt
+*local.*
+*.exe
+.idea/
+.vscode/
